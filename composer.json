@@ -1,0 +1,14 @@
+{"description": "chatbot",
+    "name": "nina/server_mvc",
+    "authors": [
+        {
+            "name": "Nina Herasymova",
+            "email": "predvoditeldvoryanstva@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "2.0",
+        "telegram-bot/api": "2.3",
+        "irazasyed/telegram-bot-sdk": "2.0"
+    }
+}
